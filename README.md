@@ -1,4 +1,4 @@
-# Dyslexia Support Game Suite (Integrated Project)
+# Word Explorer - Dyslexia Support Game 
 
 This project integrates **four educational mini-games** into a unified gaming experience designed to help children with dyslexia improve their reading and writing skills. The integration centers around a **maze environment** where players navigate to access and play each of the games.
 
