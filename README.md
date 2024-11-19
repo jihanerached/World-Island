@@ -48,9 +48,3 @@ You can access it here:
 Watch a demo of the integrated game here:  
 [**Link to Gameplay Demo or Video**](https://vimeo.com/1030366828?share=copy)
 
-## 🚀 How to Run the Game
-
-To try the game locally:
-1. Clone this repository to explore an overview of the project:
-   ```bash
-   git clone https://github.com/yourusername/enchanted-library.git
