@@ -1,34 +1,56 @@
-# Word Explorer - Dyslexia Support Game 
+# Word Explorer : Dyslexia Support Game
 
-This project integrates **four educational mini-games** into a unified gaming experience designed to help children with dyslexia improve their reading and writing skills. The integration centers around a **maze environment** where players navigate to access and play each of the games.
+This project is a **fun and educational game suite** designed to support children with dyslexia in enhancing their reading and writing skills. Set in an **enchanted library**, players navigate through a magical maze, uncovering doors that lead to four mini-games—each targeting a specific literacy skill.
 
-## Purpose of the Project
+## 🎯 Purpose of the Project
 
-The game suite is designed to:
-- Support children with dyslexia in developing reading and writing skills.
-- Provide an engaging and interactive way to practice literacy through fun challenges.
-- Combine multiple educational activities into a single seamless gaming experience.
+The goal of the project is to:
+- Provide an engaging, gamified learning environment for children with dyslexia.
+- Teach fundamental literacy skills through interactive and educational mini-games.
+- Offer a unified, immersive experience that encourages exploration and skill development.
 
-## Project Structure
+## 🧩 Game Structure
 
-The game integrates the following four educational mini-games:
+The enchanted library serves as the **main game environment**, where players navigate a maze filled with twists and turns. Successfully escaping the maze leads to **four magical doors**, each opening to one of the mini-games:
 
-1. **Letter Recognition Game**: Identify and match letters to their sounds.
-2. **Writing Practice Game**: Practice writing letters accurately using on-screen prompts.
-3. **Word Formation Game**: Create simple words from given letters.
-4. **Letter-to-Sound Matching Game**: Match letters with their correct pronunciation.
+### 📚 Mini-Games:
+1. **Vowel Island**  
+   Focus: Recognizing and understanding vowels.  
+   Players engage with interactive tasks to identify vowel sounds and their correct placement in words.
 
+2. **Consonant Island**  
+   Focus: Learning consonant sounds and their usage.  
+   Challenges include matching consonants with sounds and forming basic words.
 
-## Accessing the Codebase
+3. **Blend Island**  
+   Focus: Constructing words by blending letters.  
+   Players practice combining letters into syllables and simple words, building foundational literacy skills.
 
-Due to the large size of the project, the full codebase is hosted externally. You can access it here:
+4. **Word Island**  
+   Focus: Building and recognizing complete words.  
+   Players solve puzzles and challenges to form meaningful words from given sets of letters.
 
-[**Link to the Code on Google Drive**]([your-google-drive-link](https://drive.google.com/file/d/16Kpq6EnEGpAXEqI0W8MGgT8O6C86T9kP/edit)
+## 🌀 The Maze Integration
 
-## Demo or Gameplay Video
+The maze is the **central feature** of the game:
+- Players explore a **magical labyrinth** within the library.
+- To unlock new areas, they must solve literacy-based puzzles.
+- Escaping the maze grants access to the mini-games, ensuring players engage with all parts of the educational suite.
 
-Watch a demo of the integrated game here:
+## 💾 Accessing the Codebase
 
+Due to the large size of the project, the full codebase is hosted externally.  
+You can access it here:  
+[**Link to the Code on Google Drive**](https://drive.google.com/file/d/16Kpq6EnEGpAXEqI0W8MGgT8O6C86T9kP/edit)
+
+### 📹 Demo or Gameplay Video
+
+Watch a demo of the integrated game here:  
 [**Link to Gameplay Demo or Video**](https://vimeo.com/1030366828?share=copy)
 
+## 🚀 How to Run the Game
 
+To try the game locally:
+1. Clone this repository to explore an overview of the project:
+   ```bash
+   git clone https://github.com/yourusername/enchanted-library.git
